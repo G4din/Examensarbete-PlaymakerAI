@@ -10,6 +10,7 @@ __pycache__/
 # Distribution / packaging
 catboost_info/
 /img
+img_models/
 .Python
 build/
 csv/
